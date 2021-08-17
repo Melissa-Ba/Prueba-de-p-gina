@@ -1,2 +1,2 @@
-# Prueba-de-p-gina
+# Prueba-de-página
 Prueba biocontroladores
